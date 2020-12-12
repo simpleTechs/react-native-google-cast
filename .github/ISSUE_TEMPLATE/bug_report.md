@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
+title: "(add [Android] or [iOS] if platform specific)"
 labels: ''
 assignees: ''
 
@@ -13,7 +13,7 @@ A clear and concise description of what the bug is.
 **Versions:**
 - RNGC Library Version: [e.g. 3.2.0]
 - Android Version (if applicable): [e.g. 28.0.0]
-- OS Version (if applicable): [e.g. 13.1]
+- iOS Version (if applicable): [e.g. 13.1]
 
 **To Reproduce**
 Steps to reproduce the behavior:
